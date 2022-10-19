@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\bin\Debug\net6.0\Moyenne de 2 nombres.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\bin\Debug\net6.0\Moyenne de 2 nombres.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\bin\Debug\net6.0\Moyenne de 2 nombres.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\bin\Debug\net6.0\Moyenne de 2 nombres.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\bin\Debug\net6.0\Moyenne de 2 nombres.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\Moyenne de 2 nombres.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\Moyenne de 2 nombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\Moyenne de 2 nombres.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\Moyenne de 2 nombres.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\Moyenne de 2 nombres.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\Moyenne de 2 nombres.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\refint\Moyenne de 2 nombres.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\Moyenne de 2 nombres.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\Moyenne de 2 nombres.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\01\Moyenne de 2 nombres\Moyenne de 2 nombres\obj\Debug\net6.0\ref\Moyenne de 2 nombres.dll
