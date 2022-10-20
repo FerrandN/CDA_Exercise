@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "inversion de 2 valeurs/1.0.0": {
+        "runtime": {
+          "inversion de 2 valeurs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inversion de 2 valeurs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\bin\Debug\net6.0\inversion de 2 valeurs.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\bin\Debug\net6.0\inversion de 2 valeurs.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\bin\Debug\net6.0\inversion de 2 valeurs.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\bin\Debug\net6.0\inversion de 2 valeurs.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\bin\Debug\net6.0\inversion de 2 valeurs.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\inversion de 2 valeurs.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\inversion de 2 valeurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\inversion de 2 valeurs.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\inversion de 2 valeurs.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\inversion de 2 valeurs.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\inversion de 2 valeurs.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\refint\inversion de 2 valeurs.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\inversion de 2 valeurs.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\inversion de 2 valeurs.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\05\inversion de 2 valeurs\inversion de 2 valeurs\obj\Debug\net6.0\ref\inversion de 2 valeurs.dll

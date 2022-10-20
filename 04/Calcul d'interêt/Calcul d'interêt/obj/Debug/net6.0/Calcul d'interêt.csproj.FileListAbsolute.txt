@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\bin\Debug\net6.0\Calcul d'interêt.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\bin\Debug\net6.0\Calcul d'interêt.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\bin\Debug\net6.0\Calcul d'interêt.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\bin\Debug\net6.0\Calcul d'interêt.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\bin\Debug\net6.0\Calcul d'interêt.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\Calcul d'interêt.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\Calcul d'interêt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\Calcul d'interêt.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\Calcul d'interêt.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\Calcul d'interêt.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\Calcul d'interêt.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\refint\Calcul d'interêt.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\Calcul d'interêt.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\Calcul d'interêt.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\04\Calcul d'interêt\Calcul d'interêt\obj\Debug\net6.0\ref\Calcul d'interêt.dll
