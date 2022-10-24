@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\bin\Debug\net6.0\Barnabe.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\bin\Debug\net6.0\Barnabe.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\bin\Debug\net6.0\Barnabe.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\bin\Debug\net6.0\Barnabe.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\bin\Debug\net6.0\Barnabe.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\Barnabe.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\Barnabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\Barnabe.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\Barnabe.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\Barnabe.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\Barnabe.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\refint\Barnabe.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\Barnabe.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\Barnabe.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\13\Barnabe\Barnabe\obj\Debug\net6.0\ref\Barnabe.dll

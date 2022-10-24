@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\bin\Debug\net6.0\Tri Des Nombres.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\bin\Debug\net6.0\Tri Des Nombres.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\bin\Debug\net6.0\Tri Des Nombres.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\bin\Debug\net6.0\Tri Des Nombres.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\bin\Debug\net6.0\Tri Des Nombres.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\Tri Des Nombres.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\Tri Des Nombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\Tri Des Nombres.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\Tri Des Nombres.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\Tri Des Nombres.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\Tri Des Nombres.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\refint\Tri Des Nombres.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\Tri Des Nombres.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\Tri Des Nombres.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\07\Tri Des Nombres\Tri Des Nombres\obj\Debug\net6.0\ref\Tri Des Nombres.dll

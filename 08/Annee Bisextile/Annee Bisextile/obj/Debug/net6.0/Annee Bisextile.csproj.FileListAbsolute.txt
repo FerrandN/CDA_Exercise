@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\bin\Debug\net6.0\Annee Bisextile.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\bin\Debug\net6.0\Annee Bisextile.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\bin\Debug\net6.0\Annee Bisextile.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\bin\Debug\net6.0\Annee Bisextile.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\bin\Debug\net6.0\Annee Bisextile.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\Annee Bisextile.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\Annee Bisextile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\Annee Bisextile.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\Annee Bisextile.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\Annee Bisextile.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\Annee Bisextile.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\refint\Annee Bisextile.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\Annee Bisextile.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\Annee Bisextile.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\08\Annee Bisextile\Annee Bisextile\obj\Debug\net6.0\ref\Annee Bisextile.dll

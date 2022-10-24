@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\bin\Debug\net6.0\Recherche des diviseurs d'un nombre.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\bin\Debug\net6.0\Recherche des diviseurs d'un nombre.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\bin\Debug\net6.0\Recherche des diviseurs d'un nombre.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\bin\Debug\net6.0\Recherche des diviseurs d'un nombre.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\bin\Debug\net6.0\Recherche des diviseurs d'un nombre.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\Recherche des diviseurs d'un nombre.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\Recherche des diviseurs d'un nombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\Recherche des diviseurs d'un nombre.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\Recherche des diviseurs d'un nombre.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\Recherche des diviseurs d'un nombre.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\Recherche des diviseurs d'un nombre.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\refint\Recherche des diviseurs d'un nombre.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\Recherche des diviseurs d'un nombre.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\Recherche des diviseurs d'un nombre.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\09\Recherche des diviseurs d'un nombre\Recherche des diviseurs d'un nombre\obj\Debug\net6.0\ref\Recherche des diviseurs d'un nombre.dll

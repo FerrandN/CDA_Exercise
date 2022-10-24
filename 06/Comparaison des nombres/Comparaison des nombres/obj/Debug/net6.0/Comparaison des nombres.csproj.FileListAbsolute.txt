@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\bin\Debug\net6.0\Comparaison des nombres.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\bin\Debug\net6.0\Comparaison des nombres.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\bin\Debug\net6.0\Comparaison des nombres.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\bin\Debug\net6.0\Comparaison des nombres.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\bin\Debug\net6.0\Comparaison des nombres.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\Comparaison des nombres.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\Comparaison des nombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\Comparaison des nombres.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\Comparaison des nombres.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\Comparaison des nombres.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\Comparaison des nombres.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\refint\Comparaison des nombres.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\Comparaison des nombres.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\Comparaison des nombres.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\06\Comparaison des nombres\Comparaison des nombres\obj\Debug\net6.0\ref\Comparaison des nombres.dll

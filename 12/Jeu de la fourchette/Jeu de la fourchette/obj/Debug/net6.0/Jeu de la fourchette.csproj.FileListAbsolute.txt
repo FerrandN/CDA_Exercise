@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\bin\Debug\net6.0\Jeu de la fourchette.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\bin\Debug\net6.0\Jeu de la fourchette.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\bin\Debug\net6.0\Jeu de la fourchette.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\bin\Debug\net6.0\Jeu de la fourchette.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\bin\Debug\net6.0\Jeu de la fourchette.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\Jeu de la fourchette.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\Jeu de la fourchette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\Jeu de la fourchette.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\Jeu de la fourchette.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\Jeu de la fourchette.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\Jeu de la fourchette.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\refint\Jeu de la fourchette.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\Jeu de la fourchette.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\Jeu de la fourchette.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\12\Jeu de la fourchette\Jeu de la fourchette\obj\Debug\net6.0\ref\Jeu de la fourchette.dll

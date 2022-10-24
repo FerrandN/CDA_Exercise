@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\bin\Debug\net6.0\Nombre Premier.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\bin\Debug\net6.0\Nombre Premier.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\bin\Debug\net6.0\Nombre Premier.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\bin\Debug\net6.0\Nombre Premier.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\bin\Debug\net6.0\Nombre Premier.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\Nombre Premier.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\Nombre Premier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\Nombre Premier.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\Nombre Premier.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\Nombre Premier.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\Nombre Premier.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\refint\Nombre Premier.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\Nombre Premier.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\Nombre Premier.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\10\Nombre Premier\Nombre Premier\obj\Debug\net6.0\ref\Nombre Premier.dll
