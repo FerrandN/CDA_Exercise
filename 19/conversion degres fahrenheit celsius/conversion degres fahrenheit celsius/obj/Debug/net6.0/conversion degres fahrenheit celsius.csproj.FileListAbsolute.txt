@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\bin\Debug\net6.0\conversion degres fahrenheit celsius.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\bin\Debug\net6.0\conversion degres fahrenheit celsius.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\bin\Debug\net6.0\conversion degres fahrenheit celsius.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\bin\Debug\net6.0\conversion degres fahrenheit celsius.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\bin\Debug\net6.0\conversion degres fahrenheit celsius.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\conversion degres fahrenheit celsius.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\conversion degres fahrenheit celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\conversion degres fahrenheit celsius.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\conversion degres fahrenheit celsius.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\conversion degres fahrenheit celsius.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\conversion degres fahrenheit celsius.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\refint\conversion degres fahrenheit celsius.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\conversion degres fahrenheit celsius.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\conversion degres fahrenheit celsius.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\conversion degres fahrenheit celsius\conversion degres fahrenheit celsius\obj\Debug\net6.0\ref\conversion degres fahrenheit celsius.dll

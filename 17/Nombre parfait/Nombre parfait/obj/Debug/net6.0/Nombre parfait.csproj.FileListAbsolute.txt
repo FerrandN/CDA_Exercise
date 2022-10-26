@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\bin\Debug\net6.0\Nombre parfait.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\bin\Debug\net6.0\Nombre parfait.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\bin\Debug\net6.0\Nombre parfait.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\bin\Debug\net6.0\Nombre parfait.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\bin\Debug\net6.0\Nombre parfait.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\Nombre parfait.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\Nombre parfait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\Nombre parfait.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\Nombre parfait.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\Nombre parfait.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\Nombre parfait.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\refint\Nombre parfait.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\Nombre parfait.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\Nombre parfait.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\17\Nombre parfait\Nombre parfait\obj\Debug\net6.0\ref\Nombre parfait.dll

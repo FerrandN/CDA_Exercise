@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\bin\Debug\net6.0\Rechercher un nombre dans un tableau.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\bin\Debug\net6.0\Rechercher un nombre dans un tableau.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\bin\Debug\net6.0\Rechercher un nombre dans un tableau.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\bin\Debug\net6.0\Rechercher un nombre dans un tableau.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\bin\Debug\net6.0\Rechercher un nombre dans un tableau.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\Rechercher un nombre dans un tableau.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\Rechercher un nombre dans un tableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\Rechercher un nombre dans un tableau.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\Rechercher un nombre dans un tableau.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\Rechercher un nombre dans un tableau.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\Rechercher un nombre dans un tableau.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\refint\Rechercher un nombre dans un tableau.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\Rechercher un nombre dans un tableau.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\Rechercher un nombre dans un tableau.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\14\Rechercher un nombre dans un tableau\Rechercher un nombre dans un tableau\obj\Debug\net6.0\ref\Rechercher un nombre dans un tableau.dll

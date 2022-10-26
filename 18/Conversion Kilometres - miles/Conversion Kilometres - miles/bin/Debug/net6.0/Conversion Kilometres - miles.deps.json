@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Conversion Kilometres - miles/1.0.0": {
+        "runtime": {
+          "Conversion Kilometres - miles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversion Kilometres - miles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

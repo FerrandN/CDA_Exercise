@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\bin\Debug\net6.0\Conversion Kilometres - miles.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\bin\Debug\net6.0\Conversion Kilometres - miles.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\bin\Debug\net6.0\Conversion Kilometres - miles.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\bin\Debug\net6.0\Conversion Kilometres - miles.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\bin\Debug\net6.0\Conversion Kilometres - miles.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\Conversion Kilometres - miles.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\Conversion Kilometres - miles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\Conversion Kilometres - miles.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\Conversion Kilometres - miles.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\Conversion Kilometres - miles.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\Conversion Kilometres - miles.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\refint\Conversion Kilometres - miles.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\Conversion Kilometres - miles.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\Conversion Kilometres - miles.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\18\Conversion Kilometres - miles\Conversion Kilometres - miles\obj\Debug\net6.0\ref\Conversion Kilometres - miles.dll

@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\bin\Debug\net6.0\Conversion degre fahrenheit all value.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\bin\Debug\net6.0\Conversion degre fahrenheit all value.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\bin\Debug\net6.0\Conversion degre fahrenheit all value.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\bin\Debug\net6.0\Conversion degre fahrenheit all value.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\bin\Debug\net6.0\Conversion degre fahrenheit all value.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\Conversion degre fahrenheit all value.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\Conversion degre fahrenheit all value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\Conversion degre fahrenheit all value.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\Conversion degre fahrenheit all value.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\Conversion degre fahrenheit all value.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\Conversion degre fahrenheit all value.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\refint\Conversion degre fahrenheit all value.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\Conversion degre fahrenheit all value.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\Conversion degre fahrenheit all value.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Conversion degre fahrenheit all value\Conversion degre fahrenheit all value\obj\Debug\net6.0\ref\Conversion degre fahrenheit all value.dll

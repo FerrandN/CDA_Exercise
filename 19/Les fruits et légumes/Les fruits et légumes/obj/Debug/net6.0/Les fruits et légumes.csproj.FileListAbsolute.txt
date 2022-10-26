@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\bin\Debug\net6.0\Les fruits et légumes.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\bin\Debug\net6.0\Les fruits et légumes.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\bin\Debug\net6.0\Les fruits et légumes.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\bin\Debug\net6.0\Les fruits et légumes.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\bin\Debug\net6.0\Les fruits et légumes.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\Les fruits et légumes.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\Les fruits et légumes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\Les fruits et légumes.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\Les fruits et légumes.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\Les fruits et légumes.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\Les fruits et légumes.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\refint\Les fruits et légumes.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\Les fruits et légumes.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\Les fruits et légumes.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\19\Les fruits et légumes\Les fruits et légumes\obj\Debug\net6.0\ref\Les fruits et légumes.dll
