@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcul du nombre de personnes", "Calcul du nombre de personnes\Calcul du nombre de personnes.csproj", "{B3098097-B28E-4D4D-8D5F-DE5DEAD9FE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3098097-B28E-4D4D-8D5F-DE5DEAD9FE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3098097-B28E-4D4D-8D5F-DE5DEAD9FE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3098097-B28E-4D4D-8D5F-DE5DEAD9FE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3098097-B28E-4D4D-8D5F-DE5DEAD9FE54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26BAC72A-3062-4934-8CAA-83C935E46BFC}
+	EndGlobalSection
+EndGlobal

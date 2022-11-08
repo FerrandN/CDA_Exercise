@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\bin\Debug\net6.0\JEU DU PENDU.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\bin\Debug\net6.0\JEU DU PENDU.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\bin\Debug\net6.0\JEU DU PENDU.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\bin\Debug\net6.0\JEU DU PENDU.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\bin\Debug\net6.0\JEU DU PENDU.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\JEU DU PENDU.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\JEU DU PENDU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\JEU DU PENDU.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\JEU DU PENDU.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\JEU DU PENDU.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\JEU DU PENDU.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\refint\JEU DU PENDU.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\JEU DU PENDU.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\JEU DU PENDU.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\25\JEU DU PENDU\JEU DU PENDU\obj\Debug\net6.0\ref\JEU DU PENDU.dll

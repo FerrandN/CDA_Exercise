@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\bin\Debug\net6.0\Calcul du nombre de personnes.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\bin\Debug\net6.0\Calcul du nombre de personnes.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\bin\Debug\net6.0\Calcul du nombre de personnes.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\bin\Debug\net6.0\Calcul du nombre de personnes.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\bin\Debug\net6.0\Calcul du nombre de personnes.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\Calcul du nombre de personnes.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\Calcul du nombre de personnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\Calcul du nombre de personnes.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\Calcul du nombre de personnes.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\Calcul du nombre de personnes.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\Calcul du nombre de personnes.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\refint\Calcul du nombre de personnes.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\Calcul du nombre de personnes.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\Calcul du nombre de personnes.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\21\Calcul du nombre de personnes\Calcul du nombre de personnes\obj\Debug\net6.0\ref\Calcul du nombre de personnes.dll

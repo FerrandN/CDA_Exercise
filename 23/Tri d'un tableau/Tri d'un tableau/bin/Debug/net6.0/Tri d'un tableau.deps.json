@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tri d'un tableau/1.0.0": {
+        "runtime": {
+          "Tri d'un tableau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tri d'un tableau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

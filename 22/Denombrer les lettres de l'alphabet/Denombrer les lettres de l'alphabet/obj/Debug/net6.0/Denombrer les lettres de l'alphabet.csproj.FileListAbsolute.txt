@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\bin\Debug\net6.0\Denombrer les lettres de l'alphabet.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\bin\Debug\net6.0\Denombrer les lettres de l'alphabet.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\bin\Debug\net6.0\Denombrer les lettres de l'alphabet.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\bin\Debug\net6.0\Denombrer les lettres de l'alphabet.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\bin\Debug\net6.0\Denombrer les lettres de l'alphabet.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\Denombrer les lettres de l'alphabet.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\Denombrer les lettres de l'alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\Denombrer les lettres de l'alphabet.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\Denombrer les lettres de l'alphabet.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\Denombrer les lettres de l'alphabet.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\Denombrer les lettres de l'alphabet.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\refint\Denombrer les lettres de l'alphabet.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\Denombrer les lettres de l'alphabet.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\Denombrer les lettres de l'alphabet.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\22\Denombrer les lettres de l'alphabet\Denombrer les lettres de l'alphabet\obj\Debug\net6.0\ref\Denombrer les lettres de l'alphabet.dll

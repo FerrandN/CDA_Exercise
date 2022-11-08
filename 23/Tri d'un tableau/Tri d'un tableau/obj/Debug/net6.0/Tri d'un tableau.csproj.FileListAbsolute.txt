@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\bin\Debug\net6.0\Tri d'un tableau.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\bin\Debug\net6.0\Tri d'un tableau.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\bin\Debug\net6.0\Tri d'un tableau.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\bin\Debug\net6.0\Tri d'un tableau.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\bin\Debug\net6.0\Tri d'un tableau.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\Tri d'un tableau.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\Tri d'un tableau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\Tri d'un tableau.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\Tri d'un tableau.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\Tri d'un tableau.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\Tri d'un tableau.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\refint\Tri d'un tableau.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\Tri d'un tableau.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\Tri d'un tableau.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\23\Tri d'un tableau\Tri d'un tableau\obj\Debug\net6.0\ref\Tri d'un tableau.dll
