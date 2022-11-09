@@ -1,0 +1,5 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\PGCD.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\PGCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\PGCD.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\PGCD.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\PGCD.csproj.CoreCompileInputs.cache

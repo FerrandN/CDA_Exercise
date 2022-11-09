@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\bin\Debug\net6.0\Calcul_PGCD.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\bin\Debug\net6.0\Calcul_PGCD.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\bin\Debug\net6.0\Calcul_PGCD.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\bin\Debug\net6.0\Calcul_PGCD.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\bin\Debug\net6.0\Calcul_PGCD.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\Calcul_PGCD.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\Calcul_PGCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\Calcul_PGCD.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\Calcul_PGCD.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\Calcul_PGCD.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\Calcul_PGCD.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\refint\Calcul_PGCD.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\Calcul_PGCD.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\Calcul_PGCD.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\27\PGCD\PGCD\obj\Debug\net6.0\ref\Calcul_PGCD.dll

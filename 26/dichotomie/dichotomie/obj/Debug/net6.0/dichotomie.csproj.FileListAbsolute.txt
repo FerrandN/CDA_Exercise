@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\bin\Debug\net6.0\dichotomie.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\bin\Debug\net6.0\dichotomie.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\bin\Debug\net6.0\dichotomie.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\bin\Debug\net6.0\dichotomie.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\bin\Debug\net6.0\dichotomie.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\dichotomie.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\dichotomie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\dichotomie.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\dichotomie.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\dichotomie.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\dichotomie.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\refint\dichotomie.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\dichotomie.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\dichotomie.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\26\dichotomie\dichotomie\obj\Debug\net6.0\ref\dichotomie.dll
