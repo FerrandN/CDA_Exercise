@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\bin\Debug\net6.0\Tour de honoï.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\bin\Debug\net6.0\Tour de honoï.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\bin\Debug\net6.0\Tour de honoï.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\bin\Debug\net6.0\Tour de honoï.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\bin\Debug\net6.0\Tour de honoï.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\Tour de honoï.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\Tour de honoï.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\Tour de honoï.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\Tour de honoï.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\Tour de honoï.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\Tour de honoï.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\refint\Tour de honoï.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\Tour de honoï.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\Tour de honoï.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\31\Tour de honoï\Tour de honoï\obj\Debug\net6.0\ref\Tour de honoï.dll
