@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\bin\Debug\net6.0\Factorielle.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\bin\Debug\net6.0\Factorielle.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\bin\Debug\net6.0\Factorielle.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\bin\Debug\net6.0\Factorielle.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\bin\Debug\net6.0\Factorielle.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\Factorielle.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\Factorielle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\Factorielle.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\Factorielle.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\Factorielle.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\Factorielle.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\refint\Factorielle.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\Factorielle.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\Factorielle.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\32\Factorielle\Factorielle\obj\Debug\net6.0\ref\Factorielle.dll
