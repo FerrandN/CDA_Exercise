@@ -2,6 +2,8 @@
 
 bouteille bottle = new bouteille();
 
+bouteille otherBottle = new bouteille(bottle);
+
 //bottle state
 bottle.State();
 //bottle is closed, we try to fill it
@@ -33,7 +35,7 @@ bottle.State();
 bottle.FullFill();
 bottle.State();
 
-//try to full emty
+//try to full empty
 bottle.FullEmpty();
 bottle.State();
 

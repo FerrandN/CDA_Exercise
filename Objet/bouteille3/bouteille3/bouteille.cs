@@ -9,17 +9,29 @@ namespace bouteille3
     internal class bouteille
     {
         bool isOpen = false;
-        const float maxCapacity = 100;
+        float maxCapacity = 100;
         float liquidInLiter = 0;
 
-        public bouteille()
+        public bouteille() : this(100,0,false)
         {
 
         }
-        public bouteille(bool isOpen, float liquidInLiter)
+        public bouteille(float maxCapacity)
         {
+            this.maxCapacity = maxCapacity;
+        }
+        public bouteille(float maxCapacity, float liquidInLiter, bool isOpen)
+        {
+            this.maxCapacity = maxCapacity;
             this.isOpen = isOpen;
-            this.liquidInLiter = liquidInLiter;
+            this.liquidInLiter= liquidInLiter;
+        }
+
+        public bouteille (bouteille otherBottle)
+        {
+            isOpen = otherBottle.isOpen;
+            maxCapacity = otherBottle.maxCapacity;
+            liquidInLiter = otherBottle.liquidInLiter;
         }
 
         public bool Open()
@@ -66,6 +78,7 @@ namespace bouteille3
                 }
                 else
                 {
+                    Console.WriteLine("Vous avez rajouter " + liter + " centi Litre à la bouteille \n");
                     liquidInLiter += liter;
                 }
             }
