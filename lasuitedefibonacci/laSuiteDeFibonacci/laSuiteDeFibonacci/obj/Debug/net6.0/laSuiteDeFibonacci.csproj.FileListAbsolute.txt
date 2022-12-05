@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\bin\Debug\net6.0\laSuiteDeFibonacci.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\bin\Debug\net6.0\laSuiteDeFibonacci.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\bin\Debug\net6.0\laSuiteDeFibonacci.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\bin\Debug\net6.0\laSuiteDeFibonacci.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\bin\Debug\net6.0\laSuiteDeFibonacci.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\laSuiteDeFibonacci.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\laSuiteDeFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\laSuiteDeFibonacci.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\laSuiteDeFibonacci.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\laSuiteDeFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\laSuiteDeFibonacci.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\refint\laSuiteDeFibonacci.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\laSuiteDeFibonacci.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\laSuiteDeFibonacci.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\lasuitedefibonacci\laSuiteDeFibonacci\laSuiteDeFibonacci\obj\Debug\net6.0\ref\laSuiteDeFibonacci.dll

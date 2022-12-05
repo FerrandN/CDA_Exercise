@@ -1,0 +1,15 @@
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\bin\Debug\net6.0\bouteille3.exe
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\bin\Debug\net6.0\bouteille3.deps.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\bin\Debug\net6.0\bouteille3.runtimeconfig.json
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\bin\Debug\net6.0\bouteille3.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\bin\Debug\net6.0\bouteille3.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\bouteille3.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\bouteille3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\bouteille3.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\bouteille3.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\bouteille3.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\bouteille3.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\refint\bouteille3.dll
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\bouteille3.pdb
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\bouteille3.genruntimeconfig.cache
+C:\Users\Stagiaire\Documents\Visual Studio 2022\Exercice\Objet\bouteille3\bouteille3\obj\Debug\net6.0\ref\bouteille3.dll
