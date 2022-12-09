@@ -9,8 +9,23 @@ namespace bouteille3
     internal class bouteille
     {
         bool isOpen = false;
+        public bool IsOpen
+        {
+            get { return isOpen; }
+            set { isOpen = value; }
+        }
         float maxCapacity = 100;
+        public float MaxCapacity
+        {
+            get { return maxCapacity; }
+            set { maxCapacity = value; }
+        }
         float liquidInLiter = 0;
+        public float LiquidInLiter
+        {
+            get { return liquidInLiter; }
+            set { liquidInLiter = value; }
+        }
 
         public bouteille() : this(100,0,false)
         {
