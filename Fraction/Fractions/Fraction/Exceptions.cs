@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Fractions
 {
-    internal class Exceptions
+    internal class Exceptions : Exception
     {
+        
     }
 }
