@@ -1,0 +1,12 @@
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\bin\Debug\net6.0\Fractions.deps.json
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\bin\Debug\net6.0\Fractions.dll
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\bin\Debug\net6.0\Fractions.pdb
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\obj\Debug\net6.0\Fractions.csproj.AssemblyReference.cache
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\obj\Debug\net6.0\Fractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\obj\Debug\net6.0\Fractions.AssemblyInfoInputs.cache
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\obj\Debug\net6.0\Fractions.AssemblyInfo.cs
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\obj\Debug\net6.0\Fractions.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\obj\Debug\net6.0\Fractions.dll
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\obj\Debug\net6.0\refint\Fractions.dll
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\obj\Debug\net6.0\Fractions.pdb
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Fraction\Fractions\Fraction\obj\Debug\net6.0\ref\Fractions.dll
