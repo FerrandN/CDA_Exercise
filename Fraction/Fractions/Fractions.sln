@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exe", "Fractions\Exe.csproj", "{3A56EF4D-5CAE-44E4-9736-BA9E75C84C3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractions", "Fraction\Fractions.csproj", "{3832CA03-EBAA-44DE-BA11-CFCA9CF937E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fractions", "Fraction\Fractions.csproj", "{3832CA03-EBAA-44DE-BA11-CFCA9CF937E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractionTest", "FractionTest\FractionTest.csproj", "{DA6448A9-EB17-491D-91E2-792506AA2EFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3832CA03-EBAA-44DE-BA11-CFCA9CF937E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3832CA03-EBAA-44DE-BA11-CFCA9CF937E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3832CA03-EBAA-44DE-BA11-CFCA9CF937E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6448A9-EB17-491D-91E2-792506AA2EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6448A9-EB17-491D-91E2-792506AA2EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6448A9-EB17-491D-91E2-792506AA2EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6448A9-EB17-491D-91E2-792506AA2EFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

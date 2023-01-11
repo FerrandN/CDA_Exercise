@@ -7,16 +7,30 @@ using System.Threading.Tasks;
 
 namespace Fractions
 {
-    public class Fraction : IComparable<Fraction>
+    public class Fraction 
     {
-        private int numerateur;
+        private int numerateur { get; set; }
         private int denominateur = 1;
+        public int Denominateur
+        {
+            get { return denominateur; }
+            set { denominateur = value; }
+        }
+        public int Numerateur
+        {
+            get { return numerateur; }
+            set { numerateur = value; }
+        }
         public Fraction()
         {
 
         }
         public Fraction(int numerateur, int denominateur)
         {
+            if(denominateur == 0)
+            {
+                throw new Exceptions();
+            }
             this.numerateur = numerateur;
             this.denominateur = denominateur;
         }
@@ -32,7 +46,7 @@ namespace Fractions
 
         public void Oppose()
         {
-            numerateur *= -1;
+            numerateur = numerateur * -1;
         }
 
         public void Inverse()
@@ -55,16 +69,20 @@ namespace Fractions
         private void Reduire()
         {
             int pgcd = GetPgcd();
-            this.numerateur /= pgcd;
-            this.denominateur /= pgcd;
+            this.numerateur = this.numerateur / pgcd;
+            this.denominateur = this.denominateur / pgcd;
             if(this.denominateur < 0 && this.numerateur < 0)
             {
                 this.denominateur *= -1;
                 this.numerateur *= -1;
             }
+            if(this.denominateur == 0)
+            {
+                throw new Exception();
+            }
         }
 
-        private Fraction Plus(Fraction toAdd)
+        public Fraction Plus(Fraction toAdd)
         {
             Fraction temp = new Fraction();
             temp.denominateur = this.denominateur * toAdd.denominateur;
@@ -80,38 +98,25 @@ namespace Fractions
             int pgcd = 1;
             if ( a != 0 && b != 0)
             {
-                if (a < 0)
+                if (a < 0) a = -a;
+                if (b < 0) b = -b;
+                while (a != b)
                 {
+                    if (a < b)
                     {
-                        a *= -1;
+                        b = b - a;
                     }
-                }
-            }
-            if (b != 0 && b != 0)
-            {
-                if (b < 0)
-                {
+                    else
                     {
-                        b *= -1;
+                        a = a - b;
                     }
-                }
-            }
-            while (a != b)
-            {
-                if(a<b)
-                {
-                    b = b - a;
-                }
-                else
-                {
-                    a = a - b;
                 }
             }
             pgcd = a;
             return pgcd;
         }
 
-        private Fraction Moin(Fraction toSubstract)
+        public Fraction Moin(Fraction toSubstract)
         {
             Fraction temp = new Fraction();
             temp.denominateur = this.denominateur * toSubstract.denominateur;
@@ -120,16 +125,16 @@ namespace Fractions
             return temp;
         }
 
-        private Fraction Multiplie(Fraction toMultiplie)
+        public Fraction Multiplie(Fraction toMultiplie)
         {
             Fraction temp = new Fraction();
             temp.numerateur = toMultiplie.numerateur * this.numerateur;
             temp.denominateur = toMultiplie.denominateur * this.denominateur;
-            Reduire();
+            temp.Reduire();
             return temp;
         }
 
-        private Fraction Divise(Fraction toDivide)
+        public Fraction Divise(Fraction toDivide)
         {
             Fraction temp = new Fraction();
             toDivide.Inverse();
@@ -137,20 +142,17 @@ namespace Fractions
             return temp;
         }
 
-        private float GetValue()
+        public float GetValue()
         {
             return (this.numerateur/this.denominateur);
         }
 
-        private string ToDisplay()
+        public string ToDisplay()
         {
-            return (" Numerateur= " + this.numerateur + " \n Dénominateur" + this.denominateur);
+            return (" Numerateur= " + this.numerateur + " \n Dénominateur= " + this.denominateur);
         }
 
-        public int CompareTo(Fraction? other)
-        {
-            throw new NotImplementedException();
-        }
+
         public static Fraction operator +(Fraction _frac1, Fraction _frac2)
         {
 

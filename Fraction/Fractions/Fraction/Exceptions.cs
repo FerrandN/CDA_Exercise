@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Fractions
 {
-    internal class Exceptions : Exception
+    [Serializable]
+    public class Exceptions : Exception
     {
-        
+        public Exceptions(string message): base("Le denominateur est egal à 0") { }
+        public Exceptions() { }
     }
 }
