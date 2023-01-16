@@ -9,17 +9,17 @@ namespace Fractions
 {
     public class Fraction 
     {
-        private int numerateur { get; set; }
+        private int numerateur;
         private int denominateur = 1;
         public int Denominateur
         {
             get { return denominateur; }
-            set { denominateur = value; }
+            private set { denominateur = value; }
         }
         public int Numerateur
         {
             get { return numerateur; }
-            set { numerateur = value; }
+            private set { numerateur = value; }
         }
         public Fraction()
         {
@@ -29,7 +29,7 @@ namespace Fractions
         {
             if(denominateur == 0)
             {
-                throw new Exceptions();
+                throw new DenominateurEgalAZeroException();
             }
             this.numerateur = numerateur;
             this.denominateur = denominateur;
@@ -39,7 +39,13 @@ namespace Fractions
             this.numerateur=numerateur;
         }
 
-        public string toString()
+        public Fraction(Fraction f)
+        {
+            this.numerateur = f.numerateur;
+            this.denominateur = f.denominateur;
+        }
+
+        public override string ToString()
         {
             return ("numerateur: " + numerateur + " denominateur: " + denominateur);
         }
@@ -51,19 +57,28 @@ namespace Fractions
 
         public void Inverse()
         {
+            if (numerateur == 0)
+            {
+                throw new Exception("le numerateur ne peu pas être égale à 0 pour utiliser cette fonction");
+            }
             int temp = numerateur;
             numerateur = denominateur;
             denominateur = temp;
         }
 
+        private float CalculerFraction()
+        {
+            return this.numerateur / this.denominateur;
+        }
+
         public bool SuperieurA(Fraction toCompare)
         {
-            return (this.numerateur/this.denominateur) > (toCompare.numerateur/toCompare.denominateur);
+            return this.CalculerFraction() > toCompare.CalculerFraction();
         }
 
         public bool EgalA(Fraction toCompare)
         {
-            return (this.numerateur / this.denominateur) == (toCompare.numerateur / toCompare.denominateur);
+            return this.CalculerFraction() == toCompare.CalculerFraction();
         }
 
         private void Reduire()
@@ -71,11 +86,7 @@ namespace Fractions
             int pgcd = GetPgcd();
             this.numerateur = this.numerateur / pgcd;
             this.denominateur = this.denominateur / pgcd;
-            if(this.denominateur < 0 && this.numerateur < 0)
-            {
-                this.denominateur *= -1;
-                this.numerateur *= -1;
-            }
+            this.GererSigne();
             if(this.denominateur == 0)
             {
                 throw new Exception();
@@ -84,9 +95,9 @@ namespace Fractions
 
         public Fraction Plus(Fraction toAdd)
         {
-            Fraction temp = new Fraction();
-            temp.denominateur = this.denominateur * toAdd.denominateur;
-            temp.numerateur = (this.numerateur * toAdd.denominateur) + (toAdd.numerateur * this.denominateur);
+            Fraction temp = new Fraction((this.numerateur * toAdd.denominateur) + 
+                (toAdd.numerateur * this.denominateur),
+                this.denominateur * toAdd.denominateur);
             temp.Reduire();
             return temp;
         }
@@ -116,7 +127,7 @@ namespace Fractions
             return pgcd;
         }
 
-        public Fraction Moin(Fraction toSubstract)
+        public Fraction Moins(Fraction toSubstract)
         {
             Fraction temp = new Fraction();
             temp.denominateur = this.denominateur * toSubstract.denominateur;
@@ -136,22 +147,36 @@ namespace Fractions
 
         public Fraction Divise(Fraction toDivide)
         {
-            Fraction temp = new Fraction();
-            toDivide.Inverse();
-            temp = this.Multiplie(toDivide);
-            return temp;
+            Fraction temp = toDivide;
+            temp.Inverse();
+            return this.Multiplie(temp);
+        }
+
+        public void GererSigne()
+        {
+            if(this.numerateur < 0 && this.denominateur < 0)
+            {
+                this.numerateur *= -1;
+                this.denominateur *= -1;
+            }
+        }
+
+        public string ToDisplay()
+        {
+            if (denominateur != 1)
+            {
+                return (numerateur + "/" + denominateur);
+            }
+            else
+            {
+                return string.Format("{0}", numerateur);
+            }
         }
 
         public float GetValue()
         {
             return (this.numerateur/this.denominateur);
         }
-
-        public string ToDisplay()
-        {
-            return (" Numerateur= " + this.numerateur + " \n Dénominateur= " + this.denominateur);
-        }
-
 
         public static Fraction operator +(Fraction _frac1, Fraction _frac2)
         {

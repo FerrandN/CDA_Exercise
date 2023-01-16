@@ -67,7 +67,7 @@ namespace FractionTest
         {
             Fraction test = new Fraction(5, 7);
             Fraction toCompare = new Fraction(9, 11);
-            test = test.Moin(toCompare);
+            test = test.Moins(toCompare);
             Assert.AreEqual(-8, test.Numerateur);
             Assert.AreEqual(77, test.Denominateur);
         }

@@ -2,7 +2,7 @@
 using BankAccount;
 
 BankAccounts myBankAccount = new BankAccounts(100, 01 , 500 , "Poney");
-BankAccounts ielBankAccount = new BankAccounts(0, 02, 500, "cat");
+BankAccounts ielBankAccount = new BankAccounts(0, 02, 500, "Cat");
 
 myBankAccount.DisplayInformation();
 

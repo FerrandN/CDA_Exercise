@@ -24,14 +24,9 @@ namespace BankAccount
         {
             if (acc.balance < balance)
             {
-                Console.WriteLine(acc.ownerName + " a moin d'argent");
                 return true;
             }
-            else
-            {
-                Console.WriteLine(acc.ownerName + " a plus d'argent");
-            }
-            return false ;
+            return false;
         }
 
         public bool Credit(double toAdd)
@@ -51,36 +46,26 @@ namespace BankAccount
 
         public bool Withdraw(double toWithdraw)
         {
-            try
-            {
-                if(balance + overdraft < toWithdraw)
-                {
-                    Console.WriteLine("débit de {0} pas réussit", toWithdraw);
-                    return false;
-                }
-                balance -= toWithdraw;
-                Console.WriteLine("débit de {0} réussit", toWithdraw);
-                return true;
-            }
-            catch
+
+            if (balance + overdraft < toWithdraw)
             {
                 Console.WriteLine("débit de {0} pas réussit", toWithdraw);
                 return false;
             }
+            balance -= toWithdraw;
+            Console.WriteLine("débit de {0} réussit", toWithdraw);
+            return true;
+
         }
 
-        public bool Transfert(double toTransfert, BankAccounts ToCredit)
+        public bool Transfert(double toTransfert, BankAccounts toCredit)
         {
-            try
+            if (Withdraw(toTransfert))
             {
-                Withdraw(toTransfert);
-                ToCredit.Credit(toTransfert);
+                toCredit.Credit(toTransfert);
                 return true;
             }
-            catch
-            {
-                return false;
-            }
+            return false;
         }
 
         public void DisplayInformation()

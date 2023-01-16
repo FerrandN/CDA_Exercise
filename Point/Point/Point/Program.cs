@@ -1,7 +1,7 @@
 ﻿using Point;
 
 Points p = new Points(2,5);
-Points pSymmetric = p.DuplicateSymmetrically();
+Points pSymmetric = p.DuplicateSymmetricallyOrigin();
 Console.WriteLine(pSymmetric.ParticularToString());
 Points pSymmetricAxeAbs = p.DuplicateSymmetricallyAbscisse();
 Console.WriteLine(pSymmetricAxeAbs.ParticularToString());
@@ -14,7 +14,7 @@ Console.WriteLine(p.ParticularToString());
 Console.WriteLine(p.Move(5, 8));
 Console.WriteLine(p.ParticularToString());
 
-Console.WriteLine(p.SwapParticular());
+p.SwapParticular();
 Console.WriteLine(p.ParticularToString());
 
 

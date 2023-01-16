@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "LibClassPoint/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LibClassPoint.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibClassPoint.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LibClassPoint/1.0.0": {
+      "type": "project",
+      "path": "../LibClassPoint/LibClassPoint.csproj",
+      "msbuildProject": "../LibClassPoint/LibClassPoint.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "LibClassPoint >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nferrand\\.nuget\\packages\\": {},
@@ -40,7 +59,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nferrand\\Documents\\Work\\CDA_Exercise\\Point\\Point\\LibClassPoint\\LibClassPoint.csproj": {
+              "projectPath": "C:\\Users\\nferrand\\Documents\\Work\\CDA_Exercise\\Point\\Point\\LibClassPoint\\LibClassPoint.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

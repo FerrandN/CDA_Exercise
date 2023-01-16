@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ClassBank/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClassBank.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassBank.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ClassBank/1.0.0": {
+      "type": "project",
+      "path": "../ClassBank/ClassBank.csproj",
+      "msbuildProject": "../ClassBank/ClassBank.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ClassBank >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\nferrand\\.nuget\\packages\\": {},
@@ -15,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nferrand\\Documents\\Work\\Banque\\Banque\\Banque\\Banque.csproj",
+      "projectUniqueName": "C:\\Users\\nferrand\\Documents\\Work\\CDA_Exercise\\Banque\\Banque\\Banque\\Banque.csproj",
       "projectName": "Banque",
-      "projectPath": "C:\\Users\\nferrand\\Documents\\Work\\Banque\\Banque\\Banque\\Banque.csproj",
+      "projectPath": "C:\\Users\\nferrand\\Documents\\Work\\CDA_Exercise\\Banque\\Banque\\Banque\\Banque.csproj",
       "packagesPath": "C:\\Users\\nferrand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nferrand\\Documents\\Work\\Banque\\Banque\\Banque\\obj\\",
+      "outputPath": "C:\\Users\\nferrand\\Documents\\Work\\CDA_Exercise\\Banque\\Banque\\Banque\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -40,7 +59,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\nferrand\\Documents\\Work\\CDA_Exercise\\Banque\\Banque\\ClassBank\\ClassBank.csproj": {
+              "projectPath": "C:\\Users\\nferrand\\Documents\\Work\\CDA_Exercise\\Banque\\Banque\\ClassBank\\ClassBank.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

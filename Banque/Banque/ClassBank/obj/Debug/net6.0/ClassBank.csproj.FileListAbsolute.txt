@@ -1,0 +1,12 @@
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\obj\Debug\net6.0\ClassBank.csproj.AssemblyReference.cache
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\obj\Debug\net6.0\ClassBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\obj\Debug\net6.0\ClassBank.AssemblyInfoInputs.cache
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\obj\Debug\net6.0\ClassBank.AssemblyInfo.cs
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\obj\Debug\net6.0\ClassBank.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\bin\Debug\net6.0\ClassBank.deps.json
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\bin\Debug\net6.0\ClassBank.dll
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\bin\Debug\net6.0\ClassBank.pdb
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\obj\Debug\net6.0\ClassBank.dll
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\obj\Debug\net6.0\refint\ClassBank.dll
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\obj\Debug\net6.0\ClassBank.pdb
+C:\Users\nferrand\Documents\Work\CDA_Exercise\Banque\Banque\ClassBank\obj\Debug\net6.0\ref\ClassBank.dll

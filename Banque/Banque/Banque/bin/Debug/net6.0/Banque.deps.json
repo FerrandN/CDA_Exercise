@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Banque/1.0.0": {
+        "dependencies": {
+          "ClassBank": "1.0.0"
+        },
         "runtime": {
           "Banque.dll": {}
+        }
+      },
+      "ClassBank/1.0.0": {
+        "runtime": {
+          "ClassBank.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Banque/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassBank/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
