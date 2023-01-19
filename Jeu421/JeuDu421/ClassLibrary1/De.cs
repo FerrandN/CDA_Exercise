@@ -31,12 +31,14 @@ namespace JeuDu421
             return valeur;
         }
 
+        //get random value from Alea class
         public void Rouler()
         {
             Alea alea = Alea.GetInstance();
             valeur = alea.DonneNbAleatoire(valeurMin, valeurMax);
         }
 
+        //compare dice to value
         public int CompareTo(De? other)
         {
             return other.valeur.CompareTo(valeur);

@@ -12,7 +12,7 @@ namespace JeuDu421
         private int nombreDeMancheSouhaitees;
         private int score;
         public Manche mancheCourante;
-
+        //Constructeur
         public Partie() : base()
         {
         
@@ -23,7 +23,7 @@ namespace JeuDu421
             mancheCourante = new Manche();
             score = _nombreDeMancheSouhaitees*10;
         }
-
+        //get, set. score
         public void setScore(int toSet)
         {
             score += toSet;
@@ -33,7 +33,7 @@ namespace JeuDu421
         {
             return score;
         }
-
+        //get, set. nombreDeMancheEffectuees
         public int getNombreDeManchesEffectuees()
         {
             return nombreDeManchesEffectuees;
@@ -42,6 +42,8 @@ namespace JeuDu421
         {
             return nombreDeMancheSouhaitees;
         }
+
+        //compare 2 int, return boolean to know if player can continue to play
         public bool AEncoreUneMancheAjouer()
         {
             if(nombreDeMancheSouhaitees > nombreDeManchesEffectuees)
@@ -51,6 +53,7 @@ namespace JeuDu421
             return false;
         }
 
+        //reset manche
         public void CreerUneNouvelleManche()
         {
             if(AEncoreUneMancheAjouer())
@@ -60,6 +63,7 @@ namespace JeuDu421
             }
         }
 
+        //reroll dices
         public void RelancerLesDesDeLaMancheCourantes()
         {
             mancheCourante.Relance();

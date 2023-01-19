@@ -22,7 +22,7 @@ namespace JeuDu421
                 this.Trier();
             }
         }
-
+        //get, set. nbLancerEffectue
         public byte getNbLancerEffectue()
         {
             return nbLancerEffectue;
@@ -32,10 +32,14 @@ namespace JeuDu421
         {
             nbLancerEffectue += value;
         }
+
+        //sort dice
         public void Trier()
         {
             des.Sort();
         }
+
+        //compare 2 byte, return boolean to know if player can reroll dices
         public bool AEncoreUnLance()
         {
             if (nbLancerEffectue < nbLancerMax)
@@ -46,6 +50,7 @@ namespace JeuDu421
                 return false;
         }
 
+        //Compare dices in list, to value. If all value found, return true
         public bool EstGagnee()
         {
             De? d4=des.Find(x => x.GetValeur() == 4);
@@ -65,6 +70,7 @@ namespace JeuDu421
             return false;
         }
 
+        //reroll dices
         public void Relance()
         {
             foreach (De de in des)
@@ -83,6 +89,7 @@ namespace JeuDu421
             des[numeroSecondDe].Rouler();
         }
 
+        //override ToString method, tu return dices value
         public override string ToString()
         {
             return string.Format("Dé:\n1: {0}\n2: {1}\n3: {2}", des[0].GetValeur(), des[1].GetValeur(), des[2].GetValeur());
