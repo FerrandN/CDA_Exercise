@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace JeuDu421
 {
-    public class De : IComparable<De>
+    internal class De : IComparable<De>
     {
 
-        byte valeur;
+        private byte valeur;
+        public byte Valeur
+        {
+            get { return valeur; }
+        }
         private readonly byte valeurMax;
         private readonly byte valeurMin;
 
@@ -26,16 +30,11 @@ namespace JeuDu421
             this.Rouler();
         }
 
-        public byte GetValeur()
-        {
-            return valeur;
-        }
-
         //get random value from Alea class
         public void Rouler()
         {
             Alea alea = Alea.GetInstance();
-            valeur = alea.DonneNbAleatoire(valeurMin, valeurMax);
+            this.valeur = alea.DonneNbAleatoire(valeurMin, valeurMax);
         }
 
         //compare dice to value

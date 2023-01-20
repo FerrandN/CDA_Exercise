@@ -23,38 +23,47 @@ internal class Program
 
         Partie partie = new Partie(nbManche);
 
-        while(partie.AEncoreUneMancheAjouer() && partie.getScore()>0)
+        while(partie.AEncoreUneMancheAjouer() && partie.Score>0)
         {
-            Console.WriteLine("Nombre de manches jouer: " + partie.getNombreDeManchesEffectuees());
-            Console.WriteLine("Nombre de manche à jouer: " + partie.getNombreDeManchesSouhaitees());
-            while (partie.mancheCourante.AEncoreUnLance())
+            Console.WriteLine("Nombre de manches jouer: " + partie.NombreDeManchesEffectuees);
+            Console.WriteLine("Nombre de manche à jouer: " + partie.NombreDeManchesSouhaitees);
+            while (partie.AEncoreUnLance())
             {
-                Console.WriteLine(partie.getScore());
-                Console.WriteLine(partie.mancheCourante.ToString());
-                if (partie.mancheCourante.EstGagnee())
+                Console.WriteLine(partie.Score);
+                Console.WriteLine(partie.MancheToString());
+                if (partie.EstGagnee())
                 {
                     Console.WriteLine("you won this round");
-                    partie.setScore(30);
-                    partie.mancheCourante.setNbLancerEffectue(partie.mancheCourante.nbLancerMax);
+                    partie.AddThirtyToScore();
+                    partie.SetNbLancerEffectue(partie.GetNbLancerMax());
                 }
                 else
                 {
-                    Console.WriteLine("Quels dés souhaitez vous relancer?");
-                    userInput = Console.ReadLine();
-                    MatchCollection matches = controlDiceToReroll.Matches(userInput);
-
-                    foreach (Match match in matches)
+                    bool validAnswer = false;
+                    MatchCollection matches = null;
+                    do
                     {
-                        byte b = Convert.ToByte(match.Value);
-                        b--;
-                        partie.mancheCourante.Relance(b);
+                        Console.WriteLine("Quels dés souhaitez vous relancer?");
+                        userInput = Console.ReadLine();
+                        matches = controlDiceToReroll.Matches(userInput);
+                        if (matches != null)
+                        {
+                            validAnswer = true;
+                        }
+                    } while (validAnswer = false);
+
+                    for(int i = 0; i < matches.Count();i++)
+                    {
+                        byte value = Convert.ToByte(matches[i].Value);
+                        value--;
+                        partie.RelancerLesDesDeLaMancheCourantes(value);
                     }
-                    partie.mancheCourante.setNbLancerEffectue(1);
+                    partie.AddOneToNbLancerEffectue();
                 }
-                if(partie.mancheCourante.nbLancerMax == partie.mancheCourante.getNbLancerEffectue() && !partie.mancheCourante.EstGagnee())
+                if(partie.GetNbLancerMax() == partie.GetMancheNbLancerEffectue() && !partie.EstGagnee())
                 {
                     Console.WriteLine("you lost this round");
-                    partie.setScore(-10);
+                    partie.SubstractTenFromScore();
                 }
             }
             partie.CreerUneNouvelleManche();
