@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Jeu421",
+    "\\Jeu421\\JeuDu421",
+    "\\Jeu421\\JeuDu421\\JeuDu421"
   ],
+  "SelectedNode": "\\Jeu421\\JeuDu421\\JeuDu421\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

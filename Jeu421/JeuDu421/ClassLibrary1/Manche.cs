@@ -67,13 +67,16 @@ namespace JeuDu421
         internal void Relance(byte numeroDe)
         {
             des[numeroDe].Rouler();
-            NbLancerEffectue++;
         }
 
         //override ToString method, tu return dices value
         public override string ToString()
         {
             return string.Format("Dé:\n1: {0}\n2: {1}\n3: {2}", des[0].Valeur, des[1].Valeur, des[2].Valeur);
+        }
+        public void AddOneToNbLancerEffectue()
+        {
+            NbLancerEffectue++;
         }
     }
 }

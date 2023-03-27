@@ -8,18 +8,21 @@ internal class Program
         Console.WriteLine("Bienvenue au jeu du 421\nCombien de manches souhaitez vous jouer?");
 
         //instanciate user input string and Regex that we will use to check the string
-        string userInput = Console.ReadLine();
+        string userInput;
         Regex controlDiceToReroll = new Regex(@"[1-3]{1}");
         Regex controlRoundInput = new Regex(@"[0-9]{1,3}");
-
-        //get numbers in userinput to set how many round, the player wants to play
-        MatchCollection numbers = controlRoundInput.Matches(userInput);
+        MatchCollection numbers;
         byte nbManche = 0;
-        foreach (Match match in numbers)
+        do
         {
-            byte b = Convert.ToByte(match.Value);
-            nbManche = b;
-        }
+            userInput = Console.ReadLine();
+            numbers = controlRoundInput.Matches(userInput);
+            foreach (Match match in numbers)
+            {
+                byte b = Convert.ToByte(match.Value);
+                nbManche = b;
+            }
+        } while (nbManche < 1);
 
         Partie partie = new Partie(nbManche);
 
@@ -50,7 +53,7 @@ internal class Program
                         {
                             validAnswer = true;
                         }
-                    } while (validAnswer = false);
+                    } while (validAnswer == false);
 
                     for(int i = 0; i < matches.Count();i++)
                     {
@@ -62,6 +65,7 @@ internal class Program
                 }
                 if(partie.GetNbLancerMax() == partie.GetMancheNbLancerEffectue() && !partie.EstGagnee())
                 {
+                    Console.WriteLine(partie.MancheToString());
                     Console.WriteLine("you lost this round");
                     partie.SubstractTenFromScore();
                 }

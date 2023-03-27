@@ -77,7 +77,7 @@ namespace JeuDu421
 
         public void AddOneToNbLancerEffectue()
         {
-            MancheCourante.NbLancerEffectue++;
+            MancheCourante.AddOneToNbLancerEffectue();
         }
         public string MancheToString()
         {
