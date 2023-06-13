@@ -10,8 +10,8 @@ class ZipCodeClass
     {
         try
         {
-            let response = await fetch(this.datasource);
-            this.zipcodes = await response.json();
+        let response = await fetch(this.datasource);
+        this.zipcodes = await response.json();
         }
         catch(error)
         {
@@ -21,7 +21,7 @@ class ZipCodeClass
 
     search(value)
     {
-        let result = this.zipcodes.filter(city => city.codePostal == value || city.nomCommune.toLowerCase() == value.toLowerCase());
+        let result = this.zipcodes.filter(city => city.codePostal == value || city.nomCommune == value);
         return result;
     }
 }
