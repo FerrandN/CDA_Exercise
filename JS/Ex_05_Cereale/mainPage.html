@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="./js/main.js" type="module"></script>
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Cereals</title>
+</head>
+
+<!--fieldset à rajouter-->
+
+<body>
+    <div id ="box">
+        <h1>cereals</h1>
+        <fieldset id="search">
+            <legend>Nom de céréale</legend>
+            <input type="search" id="site-search" name="recherche" placeholder="Recherche">
+        </fieldset>
+
+        <fieldset id="filter">
+            <legend>Filtre</legend>
+            <fieldset id="nutriscore">
+                <legend>Nutriscore</legend>
+
+                <input type="checkbox" id="checkbox-a" name="checkbox-a">
+                <label for="checkbox-a">A</label>
+                
+                <input type="checkbox" id="checkbox-bb" name="checkbox-b">
+                <label for="checkbox-b">B</label>
+
+                        
+                <input type="checkbox" id="checkbox-C" name="checkbox-c">
+                <label for="checkbox-c">C</label>
+
+                        
+                <input type="checkbox" id="checkbox-D" name="checkbox-d">
+                <label for="checkbox-d">D</label>
+
+                        
+                <input type="checkbox" id="checkbox-E" name="checkbox-e">
+                <label for="checkbox-e">E</label>
+
+            </fieldset>
+
+            <fieldset id="Categorie">
+                <legend>Catégorie</legend>
+
+                <select name="type_cereal" id="type_cereal">
+                    <option value="tous">Tous</option>
+                    <option value="sans_sucre">Sans sucre</option>
+                    <option value="pauvre_en_sel">Pauvre en sel</option>
+                    <option value="boost">Boost</option>
+                </select>
+            </fieldset>
+        </fieldset>
+    </div>
+    <table id="cerealsTable">
+        <thead id="cerealsTableHead">
+
+        </thead>
+        <tbody id="cerealsTableBody">
+
+        </tbody>
+        <tfoot id="cerealsTableFooter">
+            
+        </tfoot>
+    </table>
+
+</body>
+</html>

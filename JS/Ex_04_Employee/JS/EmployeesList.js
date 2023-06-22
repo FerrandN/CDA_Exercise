@@ -4,6 +4,7 @@ class EmployeesList
 {
     constructor(_url)
     {
+        let mail = "";
         /** @var {Employee[]} employeesCollection */
         this.employeesCollection=[];
         this.source=_url;
@@ -14,8 +15,10 @@ class EmployeesList
         
         let resp = await fetch(this.source);
         let json = await resp.json();
+
         for(let person of json.data)
         {
+            
             let year = new Date().getFullYear();
             person.employee_age = year - person.employee_age;
 
@@ -35,16 +38,24 @@ class EmployeesList
     }
 
     generateEmail(employeeName)
-{
-    let mail = "";
-    const regex = / [A-z]*/;
+    {
+        let mail = "";
 
-    mail += employeeName[0] + '.' + employeeName.match(regex) + "@email.com";
+        let str = employeeName.trim().split(' ');
+        mail = (str[0].charAt(0) + '.' + str[1] + '@email.com').toLocaleLowerCase();
 
-    console.log(mail);
+        return mail;
+    }
 
-    return mail;
-}
+    getFirst()
+    {
+        try {
+            return this.employeesCollection[0];
+        } catch(error) {
+            alert('La collection est vide !');
+        }
+        
+    }
 
 }
 

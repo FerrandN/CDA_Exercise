@@ -1,0 +1,111 @@
+
+
+body
+{
+    background-color: black;
+    color: white;
+    width: 100%
+}
+
+.btnDelete
+{
+    background-image: url('/../images/red-cross-x.jpg');
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+
+#site-search
+{
+    background-color: grey;
+    border:none;
+}
+
+input::placeholder
+{
+
+}
+
+#box
+{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    padding: 1em;
+}
+
+#box > h1 {
+    color: yellowgreen;
+}
+
+table
+{ 
+    border-collapse:collapse;
+}
+
+#box > #filter
+{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    background-color: grey;
+}
+
+#box > #search
+{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    background-color: grey;
+}
+
+#cerealsTable > #cerealsTableHead > tr > th
+{
+    padding: 0.3em 0.5em 0.3em 0.5em;
+}
+
+#cerealsTable > #cerealsTableBody > td
+{
+    background-color: grey;
+}
+
+body > table > thead
+{
+    background-color: grey;
+    color: yellowgreen;
+}
+
+body > table > tbody > tr :first-child
+{
+    background-color: grey;
+    color: yellow;
+}
+
+body > table > tbody > tr{
+    text-align: center;
+}
+
+body > table > tbody > tr > td#A
+{
+    background-color: darkgreen;
+}
+
+body > table > tbody > tr > td#B
+{
+    background-color: #009900CC;
+}
+
+body > table > tbody > tr > td#C
+{
+    background-color: yellow;
+}
+
+body > table > tbody > tr > td#D
+{
+    background-color: #CC6600CC;
+}
+
+body > table > tbody > tr > td#E
+{
+    background-color: #cc0000cc;
+}

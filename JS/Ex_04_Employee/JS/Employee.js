@@ -10,11 +10,19 @@ class Employee
         Object.assign(this,employee);
     }
 
+    /**
+     * 
+     * @returns 
+     */
     getValues()
     {
         return Object.values(this);
     }
 
+    /**
+     * 
+     * @returns 
+     */
     getKeys()
     {
         return Object.keys(this);

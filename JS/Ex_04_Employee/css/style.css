@@ -1,0 +1,29 @@
+table, th, td
+{
+    border: 0.1em solid black;
+    border-collapse:collapse;
+    margin: 1em;
+    padding: 0.3em;
+}
+
+table, tbody, tr, button{
+    margin:0.1em
+}
+
+button, #Duplicate{
+    color : white;
+    background-color: cyan;
+}
+
+button, #Delete{
+    color : white;
+    background-color:crimson;
+}
+
+tfoot{
+    font-weight:bold
+}
+
+body, table, thead, tr, th, #Sort{
+    margin:0.8em;
+}
