@@ -36,11 +36,20 @@ input::placeholder
 
 #box > h1 {
     color: yellowgreen;
+    font-size: 4em;
 }
 
 table
 { 
     border-collapse:collapse;
+}
+
+body > div > h1
+{
+    display: block;
+    padding: 0.3em 2.6em 0em 2.6em;
+    margin: 0em 0em 0em 0em ;
+    font-weight: bold;
 }
 
 #box > #filter
@@ -97,7 +106,7 @@ body > table > tbody > tr > td#B
 
 body > table > tbody > tr > td#C
 {
-    background-color: yellow;
+    background-color: #CCCC00CC;
 }
 
 body > table > tbody > tr > td#D

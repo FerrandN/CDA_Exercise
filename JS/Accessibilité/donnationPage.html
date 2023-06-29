@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content = "ie=edge">
+        <link rel="stylesheet" type="text/css" href="/css/donnationPage.css"/>
+        <link rel="stylesheet" href="/css/accessconfig.min.css" type="text/css" media="screen">
+        <script src="/js/accessconfig.min.js"></script>
+        <title>HandiA11y</title>
+    </head>
+    
+    <body>
+        <header>
+            <img src="/img/a11yNow.png" alt="logo HandiA11y">
+            <nav>
+                <ul>
+                    <li>
+                        Accueil
+                    </li>
+
+                    <li>
+                        A11y
+                    </li>
+
+                    <li>
+                        Handicaps
+                    </li>
+
+                    <li>
+                        Faites un don
+                    </li>
+
+                    <li>
+                        Equipe
+                    </li>
+
+                    <li>
+                        <div id="accessconfig" data-accessconfig-buttonname="Paramètres d’accessibilité" data-accessconfig-params='{ "Prefix" : "a42-ac", "ContainerClass" : "","ModalCloseButton" : "","ModalTitle" : "","FormFieldset" : "","FormFieldsetLegend" : "","FormRadio" : ""}' ></div>
+                    </li>
+                </ul>
+            </nav>
+            <div>
+                <label for="text" class="labelSearchBar">Champ de recherche</label>
+                <input id="text" type="text" placeholder="Recherche">
+                <button type="button">Rechercher</button>
+            </div>
+        </header>
+
+        <tbody>
+            <main>
+                <h1>Nous sommes bénévoles, faites un don !</h1>
+                <img src="img/directrice.png" alt="photo de la directrice">
+
+                <form>
+                    <h2>Informations personnelles</h2>
+                    <div id="civilité">
+                        <label>Civilité</label>
+                        <select name="civilité">
+                            <option value="monsieur"> Monsieur</option>
+                            <option value="madame">Madame</option>
+                            <option value="autre">Autre</option>
+                        </select>
+                    </div>
+
+                    <div id="prénom">
+                        <label>Prénom</label>
+                        <input type="text" name="prenom" id="prenom" required>
+                    </div>
+                    
+                    <div id="nom">
+                        <label>Nom</label>
+                        <input type="text" name="nom" id="nom" required>
+                    </div>
+                    
+                    <div id="age">
+                        <label>Âge</label>
+                        <input type="text" name="age" id="age" required>
+                    </div>
+                    
+                    <div id="courriel">
+                        <label>Courriel</label>
+                        <input type="text" name="courriel" id="courriel" required>
+                        <p>Veuillez fournir une adresse électronique valide.</p>
+                    </div>
+                    <div id="adresse">
+                        <label>Adresse</label>
+                        <div id="numéro">
+                            <label>Numéro</label>
+                            <input type="text" name="numéro" id="numéro" required>
+                        </div>
+                        
+                        <div id="nomDeLaRue">
+                            <label>Nom de la rue</label>
+                            <input type="text" name="nomDeLaRue" id="nomDeLaRue" required>
+                        </div>
+                        
+                        <div id="codePostale">
+                            <label> Code Postale</label>
+                            <input type="text" name="codePostale" id="codePostale" required>
+                        </div>
+                        
+                        <div id="ville">
+                            <label>Ville</label>
+                            <input type="text" name="ville" id="ville" required>
+                        </div>
+                    </div>
+                    
+                    <div id="choixAbonnement">
+                        <label>Cochez la ou les cases correspondant à vos souhaits</label>
+                        <div id="newsletter">
+                            <label>Newsletter</label>
+                            <input type="checkbox" name="newsletter" id="newsletter" required>
+                        </div>
+
+                        <div id="benevole">
+                            <label>Benevole</label>
+                            <input type="checkbox" name="benevole" id="benevole" required>
+                        </div>
+                    </div>
+
+                    <div id="don">
+                        <label>Montant du don</label>
+                        <div id="montant">
+                            <label>Montant</label>
+                            <select name="montant">
+                                <option value="dix"> 10 euros</option>
+                                <option value="vingt">20 euros</option>
+                                <option value="trente">30 euros</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <fieldset>
+                        <legend>Information de Paiement</legend>
+                        <h2>Choix de la carte</h2>
+                        <div>
+                            <input type="radio" id="masterCard" name="masterCard" value="Master Card" required>
+                            <label for="masterCard">Master Card</label>
+                        </div>
+
+                        <div>
+                            <input type="radio" id="CB" name="CB" value="CB" required>
+                            <label>CB</label>
+                        </div>
+
+                        <div>
+                            <input type="radio" id="Visa" name="Visa" value="Visa" required>
+                            <label>Visa</label>
+                        </div>
+                    </fieldset>
+
+                    <div id="numeroCarte">
+                        <label>Numero de carte</label>
+                        <input type="text" name="numeroCarte" id="numeroCarte" required>
+                    </div>
+
+                    <div id="dateExpiration">
+                        <label>Date d'expiration</label>
+                        <input type="text" name="numeroCarte" id="numeroCarte"  placeholder="MM/AA" required>
+                    </div>
+
+                    <div id="codeSecret">
+                        <label>Code Secret</label>
+                        <input type="text" name="codeSecret" id="codeSecret" required>
+                    </div>
+
+                    <button type="button" id="validateButton">Valider le don</button>
+                </form>
+            </main>
+        </tbody>
+    </body>
+<footer>
+    <p>© 2023 HandiA11y. Tous droits réservés</p>
+</footer>

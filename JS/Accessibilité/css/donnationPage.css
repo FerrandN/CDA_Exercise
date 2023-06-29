@@ -1,0 +1,117 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+    --main-bg-color: rgb(19, 93, 167);
+    width: 100%;
+}
+
+body > header{
+    display: flex;
+    flex-flow: row;
+    background-color: var(--main-bg-color);
+    padding: 1em;
+    justify-content: space-between;
+    color: white;
+}
+
+body > header > *{
+    padding:0.3em;
+    align-self: center;
+}
+
+body > header > img{
+    width:5%;
+    height:5%;
+}
+
+body > header > div > button{
+    background-color: #eebb00;
+    border-radius: 10%;
+}
+
+body > header > nav > ul > li{
+    display: inline;
+    text-align: center;
+    border: 1rem;
+    border-color: red;
+    padding:0.3em;
+}
+#accessconfig{
+    display:inline;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer{
+    display: flex;
+    flex-flow: row;
+    background-color: var(--main-bg-color);
+    padding: 0.2em;
+    justify-content: space-between;
+    color: white;
+    justify-content: center;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    box-shadow: 3px 3px 3px 3px;
+    padding:3em;
+    margin:3em;
+    width:50%;
+}
+
+form > div{
+    display:flex;
+    flex-direction: column;
+    margin:0.3em;
+}
+
+form > div > div{
+    display:flex;
+    flex-direction: column;
+    margin:0.8em 0em 0em 0em;
+}
+
+#courriel > p{
+    margin:0px;
+    font-size: 10px;
+}
+
+label{
+    font-weight: bold;
+}
+
+input[type='checkbox']{
+align-self: flex-start;
+}
+
+h2{
+    font-size: 16px;
+    padding: 0.6em 0em 0em 0.6em;
+}
+
+fieldset > legend{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+fieldset{
+    margin: 0px;
+    padding: 0em 0em 0.8em 0em;
+}
+
+fieldset > div{
+    padding: 0em 0em 0.3em 0.8em;
+}
+
+#validateButton{
+    border-radius: 5px;
+    background-color: green;
+    color: aliceblue;
+    padding:0.5em;
+}

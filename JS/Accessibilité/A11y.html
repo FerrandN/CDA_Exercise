@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/css/A11y.css"/>
+    <link rel="stylesheet" href="/css/accessconfig.min.css" type="text/css" media="screen">
+    <script src="/js/accessconfig.min.js"></script>
+    <title>Bonne pratique d'accessibilité</title>
+</head>
+<body>
+    <header>
+        <img src="/img/a11yNow.png" alt="logo HandiA11y">
+        <nav>
+            <ul>
+                <li>
+                    Accueil
+                </li>
+
+                <li>
+                    A11y
+                </li>
+
+                <li>
+                    Handicaps
+                </li>
+
+                <li>
+                    Faites un don
+                </li>
+
+                <li>
+                    Equipe
+                </li>
+
+                <li>
+                    <div id="accessconfig" data-accessconfig-buttonname="Paramètres d’accessibilité" data-accessconfig-params='{ "Prefix" : "a42-ac", "ContainerClass" : "","ModalCloseButton" : "","ModalTitle" : "","FormFieldset" : "","FormFieldsetLegend" : "","FormRadio" : ""}' ></div>
+                </li>
+            </ul>
+        </nav>
+        <div>
+            <label for="text" class="labelSearchBar">Champ de recherche</label>
+            <input id="text" type="text" placeholder="Recherche">
+            <button type="button">Rechercher</button>
+        </div>
+    </header>
+    <main>
+        <h1>Quelques bonnes pratiques d'accessibilité</h1>
+        <article>
+            <section>
+                <figure>
+                    <img src="/img/decorative-image.jpg">
+                </figure>
+                <h2>Images décoratives</h2>
+                <p>utiliser des attributs "alt" vides ou nuls pour les images purement décoratives afub d'éviter qu'elles soient lues par les technologies d'assistance.</p>
+            </section>
+
+            <section>
+                <figure>
+                    <img src="/img/informative-image.jpg">
+                </figure>
+                <h2>Images informatives</h2>
+                <p>Utiliser des descriptions appropriées dans les attributs "alt" pour les images informatives afin de fournir des informations équivalentes pour les utilisateurs qui ne peuvent pas voir les images. Les attributs title et aria-describedby ne sont pas indispensables !</p>
+            </section>
+            
+            <section>
+                <figure>
+                    <img src="img/semantique-html.jpg">
+                </figure>
+                <h2>Balises HTML sémantiques (image informative)</h2>
+                <p>Utiliser des balises HTML sémantiques appropriées (telles que &lt; header &gt;, &lt; nav &gt;, &lt; main &gt;, &lt; section &gt;, &lt; article &gt;, &lt; aside &gt;, &lt; footer &gt;) pour améliorer la stricture et la compréhension du contenu par technologies d'assistance.</p>
+                <button id="displayDescButton">Afficher la description de l'image</button>
+            </section>
+            
+            <section>
+                <figure>
+                    <img src="img/image-clavier.png">
+                </figure>
+                <h2>Accès au clavier (image informative)</h2>
+                <p>S'assurer que toutes les fonctionnalités du site sont accessibles via le clavier pour les utilisateurs qui ne peuvent pas utiliser la souris.</p>
+            </section>
+            
+            <section>
+                <figure>
+                    <img src="img/contraste-image.png" id="imgContraste">
+                </figure>
+                <h2>Contraste des couleurs (image informative)</h2>
+                <p>Utiliser des combinaisons de couleurs offrant un contraste suffisant pour rendre le contenu lisible pour les personnes atteintes de dificience visuelle.</p>
+            </section>
+            
+            <section>
+                <figure>
+                    <img src="img/image-formulaire.png">
+                </figure>
+                <h2>Formulaire sémantiques(image informative)</h2>
+                <p>Utiliser des balises HTML sémantiques pour les formulaires (telles que &lt; form &gt;, &lt; input &gt;, &lt; label &gt;, &lt; select &gt;, &lt; textarea &gt;, etc...) pour l'améliorer l'accessibilité et la compréhensible du contenu par les technologies d'assistance.</p>
+            </section>
+            
+            <section>
+                <h2>Comment réaliser un audit d'accessibilité de votre site web?</h2>
+                <figure>
+                    <img src="img/ara.png" id="imgParrot">
+                </figure>
+                <p>
+                    <span class="textFooterBold">ARA</span> vous propose une méthodologie pour réaliser 3 types d'audit <br>
+                    <span class="textFooterBold">Rapide</span> (25 critères du RGAA)<br>
+                    <span class="textFooterBold">Complémentaire</span> (50 critères du RGAA)<br>
+                    <span class="textFooterBold">Complet</span> dit de conformité(106critères du RGAA)<br>
+                    
+                </p>
+                <a href="https://mozilla.org" tabindex="0" role="link">
+                    Lien pour effectuer un audit d'un site web
+                </a>
+                <a href="https://mozilla.org" tabindex="0" role="link">
+                    Lien vers une liste d'outils pour tester l'accessibilité
+                </a>
+            </section>
+        </article>
+    </main>
+</body>
+<footer>
+    <p>© 2023 HandiA11y. Tous droits réservés</p>
+</footer>
+</html>

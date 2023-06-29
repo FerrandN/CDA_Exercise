@@ -77,26 +77,43 @@ class TableGenerator
 
     deleteCereal(id)
     {
+        document.getElementById("cerealsTableFooter").deleteRow(0);
         this.cereals.deleteCereal(id);
         this.generateBody();
+        this.generateFooter();
     }
 
     generateFooter()
     {
         let row = document.createElement('tr');
-        let cellTDisplayedCereals = document.createElement('td');
-        let cellTCalories = document.createElement('td');
         let count = 0;
         let totalCalories = 0;
-        row.appendChild(cell);
 
-        for(let cereal in this.cereals.cerealsCollection)
+        for(let cereal of this.cereals.cerealsCollection)
         {
-            for(let data of cereal.getValue())
-            {
-
-            }
+            count++;
+            totalCalories += cereal.calories;
         }
+
+        for(let cereal in this.cereals.cerealsCollection[0])
+        {
+            let cell = document.createElement('td');
+
+            if(cereal == "id")
+            {
+                cell.textContent = count; 
+            }
+            else if(cereal == "calories")
+            {
+                cell.textContent = (totalCalories/count).toFixed(2);
+            }
+            else
+            {
+                cell.textContent = "";
+            }
+            row.appendChild(cell);
+        }
+        row.className = 'rowTotal';
         this.tFoot.appendChild(row);
     }
 }

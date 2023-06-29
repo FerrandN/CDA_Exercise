@@ -1,0 +1,179 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+    --main-bg-color: rgb(19, 93, 167);
+    width: 100%;
+}
+
+body > header{
+    display: flex;
+    flex-flow: row;
+    background-color: var(--main-bg-color);
+    padding: 1em;
+    justify-content: space-between;
+    color: white;
+}
+
+body > header > *{
+    padding:0.3em;
+    align-self: center;
+}
+
+body > header > img{
+    width:5%;
+    height:5%;
+}
+
+body > header > div > button{
+    background-color: #eebb00;
+    border-radius: 10%;
+}
+
+body > header > nav > ul > li{
+    display: inline;
+    text-align: center;
+    border: 1rem;
+    border-color: red;
+    padding:0.3em;
+}
+#accessconfig{
+    display:inline;
+}
+
+main{
+    display:flex;
+    width:100%;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2{
+    font-size: 9px;
+    text-align: center;
+}
+
+body > main > article > section > h1{
+    font-size:24px;
+    text-align: center;
+}
+
+#introduction{
+    width: 30%;
+    text-align: justify;
+}
+
+#welcomeTitle{
+    font-size:24px;
+
+}
+
+#introduction > section > *{
+    margin: 10px;
+}
+
+#introduction > section > h2{
+    font-size:14px;
+    text-align: center;
+}
+
+#titlePrincipesAlly{
+    font-size:24px;
+    text-align: center;
+}
+
+#principesAlly{
+    display: grid;
+    grid-template-columns: repeat(4,25%);
+}
+
+#principesAlly > section{
+    display: flexbox;
+    background-color: #90dcf3;
+    justify-content: space-evenly;
+    flex-flow:row;
+    padding: 0em 0em 0em 1em;
+    margin: 0.8em 0.8em 0em 0em;
+    border-radius: 5%;
+    font-size: 12px;
+}
+
+#principesAlly > section > h2{
+    font-size: 20px;
+}
+
+#arrayCriteria > table{
+    border-spacing : 0;
+    border-collapse : collapse;
+    width: 100%;
+}
+
+#arrayCriteria > table > tbody > tr > th{
+    background-color: #908888;
+    border: 0.1rem solid black;
+    padding: 5px;
+}
+
+#arrayCriteria > table > tbody > tr > td{
+    border: 0.1rem solid black;
+    padding: 5px;
+}
+
+body > footer{
+    display: flex;
+    flex-flow: row;
+    background-color: var(--main-bg-color);
+    padding: 0.2em;
+    justify-content: space-between;
+    color: white;
+    justify-content: center;
+}
+
+#linkToArrayExplanation > a{
+    font-size:14px;
+    text-align: center;
+    margin: 1em;
+}
+
+a[role="link"] {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+a[role="link"]{
+    display: block;
+}
+a[role="link"]:hover,
+a[role="link"]:active,
+a[role="link"]:focus {
+  color: purple;
+}
+a[role="link"]:focus {
+  background-color: palegoldenrod;
+  outline: 1px dotted;
+}
+
+caption{
+    display: none;
+}
+
+#wcagfailure{
+    border-spacing : 0;
+    border-collapse : collapse;
+    width: 100%;
+    margin: 1em;
+}
+
+#wcagfailure > tbody > tr > th{
+    background-color: #908888;
+    border: 0.1rem solid black;
+    padding: 5px;
+}
+
+#wcagfailure > tbody > tr > td{
+    border: 0.1rem solid black;
+    padding: 5px;
+}
+
+.labelSearchBar
+{
+    visibility: hidden;
+}
