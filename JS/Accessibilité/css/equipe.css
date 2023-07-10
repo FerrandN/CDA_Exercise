@@ -53,4 +53,75 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
+
 }
+
+article{
+    display: flex;
+    box-shadow: 0 0 1em black;
+    margin: 1em;
+}
+
+#employee{
+    display: flex;
+    flex-direction: row;
+}
+
+article{
+    display: flex;
+}
+
+article > *{
+    text-align: center;
+}
+
+#employee > article > figure > img{
+    float: center;
+    width:  80%;
+    height: 80%;
+    object-fit: scale-down;
+}
+
+.Ville{
+    color: rgb(19, 93, 167);
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    white-space: pre;
+    margin:0em 0em 1em 0em;
+}
+
+footer > p{
+    margin: 1em;
+}
+
+label{
+    display: none;
+}
+
+a{
+    color:white; text-decoration : none;
+}
+
+a.evitement {
+    display: inline-block;
+    color: #555;
+    background: #fff;
+    padding: .5em;
+    position: absolute;
+    left: -99999rem;
+    z-index: 100;
+ }
+ a.evitement:focus {
+    left: 0;
+ }

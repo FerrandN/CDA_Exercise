@@ -3,9 +3,10 @@ class TableGenerator
     constructor(cerealsTable)
     {
         this.cereals = cerealsTable;
-        this.tBody = document.getElementById("cerealsTableBody")
-        this.tHead = document.getElementById("cerealsTableHead")
-        this.tFoot = document.getElementById("cerealsTableFooter")
+        this.tBody = document.getElementById("cerealsTableBody");
+        this.tHead = document.getElementById("cerealsTableHead");
+        this.tFoot = document.getElementById("cerealsTableFooter");
+        this.searchField = document.getElementById("site-search");
     }
 
     generateBody()
@@ -116,5 +117,6 @@ class TableGenerator
         row.className = 'rowTotal';
         this.tFoot.appendChild(row);
     }
+
 }
 export {TableGenerator}

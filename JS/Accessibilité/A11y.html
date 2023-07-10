@@ -11,27 +11,28 @@
 </head>
 <body>
     <header>
+        <a class="evitement" href="#contenu">Aller au contenu</a>
         <img src="/img/a11yNow.png" alt="logo HandiA11y">
         <nav>
             <ul>
                 <li>
-                    Accueil
+                    <a href="./main.html">Accueil</a>
                 </li>
 
                 <li>
-                    A11y
+                    <a href="./A11y.html">A11y</a>
                 </li>
 
                 <li>
-                    Handicaps
+                    <a href="./handicap.html">Handicaps</a>
                 </li>
 
                 <li>
-                    Faites un don
+                    <a href="./donnationPage.html">Faites un don</a>
                 </li>
 
                 <li>
-                    Equipe
+                    <a href="./equipe.html">Equipe</a>
                 </li>
 
                 <li>
@@ -46,11 +47,12 @@
         </div>
     </header>
     <main>
+        <a id="contenu" tabindex="-1"></a>
         <h1>Quelques bonnes pratiques d'accessibilité</h1>
         <article>
             <section>
                 <figure>
-                    <img src="/img/decorative-image.jpg">
+                    <img src="/img/decorative-image.jpg" alt="">
                 </figure>
                 <h2>Images décoratives</h2>
                 <p>utiliser des attributs "alt" vides ou nuls pour les images purement décoratives afub d'éviter qu'elles soient lues par les technologies d'assistance.</p>
@@ -58,7 +60,7 @@
 
             <section>
                 <figure>
-                    <img src="/img/informative-image.jpg">
+                    <img src="/img/informative-image.jpg" alt="image donnant de l'information sur l'accessibilité">
                 </figure>
                 <h2>Images informatives</h2>
                 <p>Utiliser des descriptions appropriées dans les attributs "alt" pour les images informatives afin de fournir des informations équivalentes pour les utilisateurs qui ne peuvent pas voir les images. Les attributs title et aria-describedby ne sont pas indispensables !</p>
@@ -66,7 +68,7 @@
             
             <section>
                 <figure>
-                    <img src="img/semantique-html.jpg">
+                    <img src="img/semantique-html.jpg" alt="image contenant un bloc d'information de code">
                 </figure>
                 <h2>Balises HTML sémantiques (image informative)</h2>
                 <p>Utiliser des balises HTML sémantiques appropriées (telles que &lt; header &gt;, &lt; nav &gt;, &lt; main &gt;, &lt; section &gt;, &lt; article &gt;, &lt; aside &gt;, &lt; footer &gt;) pour améliorer la stricture et la compréhension du contenu par technologies d'assistance.</p>
@@ -75,7 +77,7 @@
             
             <section>
                 <figure>
-                    <img src="img/image-clavier.png">
+                    <img src="img/image-clavier.png" alt="">
                 </figure>
                 <h2>Accès au clavier (image informative)</h2>
                 <p>S'assurer que toutes les fonctionnalités du site sont accessibles via le clavier pour les utilisateurs qui ne peuvent pas utiliser la souris.</p>
@@ -83,24 +85,24 @@
             
             <section>
                 <figure>
-                    <img src="img/contraste-image.png" id="imgContraste">
+                    <img src="img/contraste-image.png" id="imgContraste" alt="">
                 </figure>
                 <h2>Contraste des couleurs (image informative)</h2>
-                <p>Utiliser des combinaisons de couleurs offrant un contraste suffisant pour rendre le contenu lisible pour les personnes atteintes de dificience visuelle.</p>
+                <p>Utiliser des combinaisons de couleurs offrant un contraste suffisant pour rendre le contenu lisible pour les personnes atteintes de déficience visuelle.</p>
             </section>
             
             <section>
                 <figure>
-                    <img src="img/image-formulaire.png">
+                    <img src="img/image-formulaire.png" alt="">
                 </figure>
-                <h2>Formulaire sémantiques(image informative)</h2>
+                <h2>Formulaire sémantiques (image informative)</h2>
                 <p>Utiliser des balises HTML sémantiques pour les formulaires (telles que &lt; form &gt;, &lt; input &gt;, &lt; label &gt;, &lt; select &gt;, &lt; textarea &gt;, etc...) pour l'améliorer l'accessibilité et la compréhensible du contenu par les technologies d'assistance.</p>
             </section>
             
             <section>
                 <h2>Comment réaliser un audit d'accessibilité de votre site web?</h2>
                 <figure>
-                    <img src="img/ara.png" id="imgParrot">
+                    <img src="img/ara.png" id="imgParrot" alt="">
                 </figure>
                 <p>
                     <span class="textFooterBold">ARA</span> vous propose une méthodologie pour réaliser 3 types d'audit <br>
@@ -109,10 +111,10 @@
                     <span class="textFooterBold">Complet</span> dit de conformité(106critères du RGAA)<br>
                     
                 </p>
-                <a href="https://mozilla.org" tabindex="0" role="link">
+                <a href="https://mozilla.org" tabindex="0" role="link" class="lien">
                     Lien pour effectuer un audit d'un site web
                 </a>
-                <a href="https://mozilla.org" tabindex="0" role="link">
+                <a href="https://mozilla.org" tabindex="0" role="link" class="lien">
                     Lien vers une liste d'outils pour tester l'accessibilité
                 </a>
             </section>

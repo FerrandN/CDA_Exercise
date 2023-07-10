@@ -118,3 +118,13 @@ body > table > tbody > tr > td#E
 {
     background-color: #cc0000cc;
 }
+
+body > table > tfoot > tr :first-child
+{
+    background-color: grey;
+    color: yellow;
+}
+
+body > table > tfoot > tr{
+    text-align: center;
+}

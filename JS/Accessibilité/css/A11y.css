@@ -103,3 +103,28 @@ footer{
     justify-content: center;
     padding:0.5em 0.5em 0.5em 0.5em;
 }
+
+label{
+    display: none;
+}
+
+a{
+    color:white; text-decoration : none;
+}
+
+a.evitement {
+    display: inline-block;
+    color: #555;
+    background: #fff;
+    padding: .5em;
+    position: absolute;
+    left: -99999rem;
+    z-index: 100;
+ }
+ a.evitement:focus {
+    left: 0;
+ }
+
+ .lien{
+    color: black;
+ }

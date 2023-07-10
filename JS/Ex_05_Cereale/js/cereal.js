@@ -4,7 +4,7 @@ class Cereal
     {
         Object.assign(this, cereal);
         this.NS = "";
-        this.DEL ="";
+        this.DEL = "";
         this.getNS();
     }
 
@@ -24,15 +24,15 @@ class Cereal
         {
             this.NS = "A";
         }
-        else if(this.rating >= 60 && this.rating < 80)
+        else if(this.rating >= 70 && this.rating < 80)
         {
             this.NS = "B";
         }
-        else if(this.rating >= 40 && this.rating < 60)
+        else if(this.rating >= 55 && this.rating < 70)
         {
             this.NS = "C";
         }
-        else if(this.rating >= 20 && this.rating < 80)
+        else if(this.rating >= 35 && this.rating < 55)
         {
             this.NS = "D";
         }

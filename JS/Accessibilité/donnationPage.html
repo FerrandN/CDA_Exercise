@@ -12,27 +12,28 @@
     
     <body>
         <header>
+            <a class="evitement" href="#contenu">Aller au contenu</a>
             <img src="/img/a11yNow.png" alt="logo HandiA11y">
             <nav>
                 <ul>
                     <li>
-                        Accueil
+                        <a href="./main.html">Accueil</a>
                     </li>
 
                     <li>
-                        A11y
+                        <a href="./A11y.html">A11y</a>
                     </li>
 
                     <li>
-                        Handicaps
+                        <a href="./handicap.html">Handicaps</a>
                     </li>
 
                     <li>
-                        Faites un don
+                        <a href="./donnationPage.html">Faites un don</a>
                     </li>
 
                     <li>
-                        Equipe
+                        <a href="./equipe.html">Equipe</a>
                     </li>
 
                     <li>
@@ -49,6 +50,7 @@
 
         <tbody>
             <main>
+                <a id="contenu" tabindex="-1"></a>
                 <h1>Nous sommes bénévoles, faites un don !</h1>
                 <img src="img/directrice.png" alt="photo de la directrice">
 
@@ -63,58 +65,58 @@
                         </select>
                     </div>
 
-                    <div id="prénom">
-                        <label>Prénom</label>
+                    <div id="prenom">
+                        <label for="prenom">Prénom</label>
                         <input type="text" name="prenom" id="prenom" required>
                     </div>
                     
                     <div id="nom">
-                        <label>Nom</label>
+                        <label for="nom">Nom</label>
                         <input type="text" name="nom" id="nom" required>
                     </div>
                     
                     <div id="age">
-                        <label>Âge</label>
+                        <label for="age">Âge</label>
                         <input type="text" name="age" id="age" required>
                     </div>
                     
                     <div id="courriel">
-                        <label>Courriel</label>
+                        <label for="courriel">Courriel</label>
                         <input type="text" name="courriel" id="courriel" required>
                         <p>Veuillez fournir une adresse électronique valide.</p>
                     </div>
                     <div id="adresse">
-                        <label>Adresse</label>
-                        <div id="numéro">
-                            <label>Numéro</label>
-                            <input type="text" name="numéro" id="numéro" required>
+                        <label for="adresse">Adresse</label>
+                        <div id="numero">
+                            <label for="numero">Numéro</label>
+                            <input type="text" name="numero" id="numero" required>
                         </div>
                         
                         <div id="nomDeLaRue">
-                            <label>Nom de la rue</label>
+                            <label for="nomDeLaRue">Nom de la rue</label>
                             <input type="text" name="nomDeLaRue" id="nomDeLaRue" required>
                         </div>
                         
                         <div id="codePostale">
-                            <label> Code Postale</label>
+                            <label for="codePostale"> Code Postale</label>
                             <input type="text" name="codePostale" id="codePostale" required>
                         </div>
                         
                         <div id="ville">
-                            <label>Ville</label>
+                            <label for="ville">Ville</label>
                             <input type="text" name="ville" id="ville" required>
                         </div>
                     </div>
                     
                     <div id="choixAbonnement">
-                        <label>Cochez la ou les cases correspondant à vos souhaits</label>
+                        <label for="newsletter">Cochez la ou les cases correspondant à vos souhaits</label>
                         <div id="newsletter">
                             <label>Newsletter</label>
                             <input type="checkbox" name="newsletter" id="newsletter" required>
                         </div>
 
                         <div id="benevole">
-                            <label>Benevole</label>
+                            <label for="benevole">Benevole</label>
                             <input type="checkbox" name="benevole" id="benevole" required>
                         </div>
                     </div>
@@ -122,7 +124,7 @@
                     <div id="don">
                         <label>Montant du don</label>
                         <div id="montant">
-                            <label>Montant</label>
+                            <label for="montant">Montant</label>
                             <select name="montant">
                                 <option value="dix"> 10 euros</option>
                                 <option value="vingt">20 euros</option>
@@ -141,27 +143,27 @@
 
                         <div>
                             <input type="radio" id="CB" name="CB" value="CB" required>
-                            <label>CB</label>
+                            <label for="CB">CB</label>
                         </div>
 
                         <div>
                             <input type="radio" id="Visa" name="Visa" value="Visa" required>
-                            <label>Visa</label>
+                            <label for="Visa">Visa</label>
                         </div>
                     </fieldset>
 
                     <div id="numeroCarte">
-                        <label>Numero de carte</label>
+                        <label for="numeroCarte">Numero de carte</label>
                         <input type="text" name="numeroCarte" id="numeroCarte" required>
                     </div>
 
                     <div id="dateExpiration">
-                        <label>Date d'expiration</label>
-                        <input type="text" name="numeroCarte" id="numeroCarte"  placeholder="MM/AA" required>
+                        <label for="dateExpiration">Date d'expiration</label>
+                        <input type="text" name="dateExpiration" id="dateExpiration"  placeholder="MM/AA" required>
                     </div>
 
                     <div id="codeSecret">
-                        <label>Code Secret</label>
+                        <label for="codeSecret">Code Secret</label>
                         <input type="text" name="codeSecret" id="codeSecret" required>
                     </div>
 
