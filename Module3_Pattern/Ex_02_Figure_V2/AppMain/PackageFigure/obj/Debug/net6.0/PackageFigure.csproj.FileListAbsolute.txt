@@ -1,0 +1,12 @@
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\bin\Debug\net6.0\PackageFigure.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\bin\Debug\net6.0\PackageFigure.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\bin\Debug\net6.0\PackageFigure.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\obj\Debug\net6.0\PackageFigure.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\obj\Debug\net6.0\PackageFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\obj\Debug\net6.0\PackageFigure.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\obj\Debug\net6.0\PackageFigure.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\obj\Debug\net6.0\PackageFigure.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\obj\Debug\net6.0\PackageFigure.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\obj\Debug\net6.0\refint\PackageFigure.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\obj\Debug\net6.0\PackageFigure.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_02_Figure_V2\AppMain\PackageFigure\obj\Debug\net6.0\ref\PackageFigure.dll

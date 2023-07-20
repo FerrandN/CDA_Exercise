@@ -1,0 +1,12 @@
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\bin\Debug\net6.0\Expression.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\bin\Debug\net6.0\Expression.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\bin\Debug\net6.0\Expression.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\obj\Debug\net6.0\Expression.csproj.AssemblyReference.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\obj\Debug\net6.0\Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\obj\Debug\net6.0\Expression.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\obj\Debug\net6.0\Expression.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\obj\Debug\net6.0\Expression.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\obj\Debug\net6.0\Expression.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\obj\Debug\net6.0\refint\Expression.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\obj\Debug\net6.0\Expression.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Module3_Pattern\Ex_01_PatternComposite\Expression\obj\Debug\net6.0\ref\Expression.dll
