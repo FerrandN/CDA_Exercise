@@ -13,22 +13,17 @@ namespace Text.Decorator
 
         }
 
-        private string AddItalic()
+        //ajoute la balise i au texte
+
+        public override string SetText()
         {
-            return " Italic";
+            return "<i>"+base.SetText()+"</i>";
         }
 
-        private string AddMarkItalic()
+        //ajoute une fonction dynamiquement
+        public void DoItalicThings()
         {
-            return "<i> " + this.Text + " </i>";
-        }
-
-        public override Container ChangeObject()
-        {
-            this.Font += this.AddItalic();
-            this.MarkedText = AddMarkItalic();
-
-            return this;
+            Console.WriteLine("Je suis Italic !");
         }
     }
 }

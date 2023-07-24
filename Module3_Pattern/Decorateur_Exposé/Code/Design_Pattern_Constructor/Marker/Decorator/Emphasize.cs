@@ -13,21 +13,10 @@ namespace Text.Decorator
 
         }
 
-        private string AddEmphasize()
+        //ajoute la balise EM au texte
+        public override string SetText()
         {
-            return " Souligné";
-        }
-
-        private string AddMarkEmphasize()
-        {
-            return "<em> " + this.Text + " </em>";
-        }
-        public override Container ChangeObject()
-        {
-            this.Font += this.AddEmphasize();
-            this.MarkedText = AddMarkEmphasize();
-
-            return this;
+            return "<em>" + base.SetText() + "</em>";
         }
     }
 }

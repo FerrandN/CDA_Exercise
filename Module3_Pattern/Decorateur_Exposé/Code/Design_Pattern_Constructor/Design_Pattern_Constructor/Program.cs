@@ -9,26 +9,14 @@ Chapters chapters = new Chapters();
 Paragraphe paragraphe = new Paragraphe();
 
 //On passe le titre en gras
-
 Bold boldTitle = new Bold(title);
-boldTitle.DisplayText();
-boldTitle.ChangeObject();
-boldTitle.DisplayMarkedText();
-boldTitle.DisplayState();
+Console.WriteLine(boldTitle.SetText());
 
-//On passe le titre en Italic
+//On passe le titre en italic
 
-Italic italicTitle = new Italic(boldTitle);
-italicTitle.ChangeObject();
-italicTitle.DisplayMarkedText();
-italicTitle.DisplayState();
+Italic boldAndItalicTitle = new Italic(boldTitle);
 
-//On traite le chapitre
-Emphasize emphasizedChapter = new Emphasize(chapters);
-emphasizedChapter.DisplayState();
-emphasizedChapter.ChangeObject();
-emphasizedChapter.DisplayState();
-emphasizedChapter.DisplayMarkedText();
+string result = boldAndItalicTitle.SetText();
+Console.WriteLine(result);
 
-//Le paragraphe
-paragraphe.DisplayState();
+boldAndItalicTitle.DoItalicThings();

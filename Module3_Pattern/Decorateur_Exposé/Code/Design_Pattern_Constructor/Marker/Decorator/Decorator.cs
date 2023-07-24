@@ -10,16 +10,17 @@ namespace Text.Decorator
     {
         protected Container objectToDecorate;
 
+        //constructeur avec un container en paramètre
         public Decorator(Container _objectToDecorate)
         {
+            //On ajoute affecte le container envoyé en paramètre à l'objet container de la classe
             this.objectToDecorate = _objectToDecorate;
         }
 
-        public void ChangeColor(string color)
+        //renvoi le texte de l'objet à décorer
+        public override string SetText()
         {
-            this.Color = color;
+            return objectToDecorate.SetText();
         }
-
-        public abstract Container ChangeObject();
     }
 }

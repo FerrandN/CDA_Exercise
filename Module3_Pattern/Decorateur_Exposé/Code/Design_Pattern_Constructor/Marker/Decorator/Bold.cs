@@ -14,22 +14,10 @@ namespace Text.Decorator
 
         }
 
-        private string AddBold()
+        //ajoute la balise b au texte
+        public override string SetText()
         {
-            return " Gras";
-        }
-
-        private string AddMarkBold()
-        {
-            return "<b> " + this.Text + " </b>";
-        }
-
-        public override Container ChangeObject()
-        {
-            this.Font += this.AddBold();
-            this.MarkedText = AddMarkBold();
-
-            return this;
+            return "<b>" + base.SetText() + "</b>";
         }
 
     }
