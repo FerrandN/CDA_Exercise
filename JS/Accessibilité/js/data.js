@@ -1,10 +1,10 @@
 class Data
 {
-    static async getDb(link)
+    static async getDB(link)
     {
         let response = await fetch(link);
         let json = await response.json();
         return json;
     }
 }
-export {Data}
+export{Data}

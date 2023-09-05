@@ -10,7 +10,7 @@ namespace Text
     {
         public Chapters()
         {
-            this.Text = "La nouvelle";
+            this.Text = "La forêt";
         }
     }
 }

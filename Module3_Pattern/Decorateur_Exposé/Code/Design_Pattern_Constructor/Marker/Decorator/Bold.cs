@@ -20,5 +20,10 @@ namespace Text.Decorator
             return "<b>" + base.SetText() + "</b>";
         }
 
+        public void wtf()
+        {
+            Console.WriteLine();
+        }
+
     }
 }
