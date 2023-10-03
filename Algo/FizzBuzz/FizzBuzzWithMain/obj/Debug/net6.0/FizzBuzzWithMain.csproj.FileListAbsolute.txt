@@ -1,0 +1,14 @@
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\bin\Debug\net6.0\FizzBuzzWithMain.exe
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\bin\Debug\net6.0\FizzBuzzWithMain.deps.json
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\bin\Debug\net6.0\FizzBuzzWithMain.runtimeconfig.json
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\bin\Debug\net6.0\FizzBuzzWithMain.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\bin\Debug\net6.0\FizzBuzzWithMain.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\obj\Debug\net6.0\FizzBuzzWithMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\obj\Debug\net6.0\FizzBuzzWithMain.AssemblyInfoInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\obj\Debug\net6.0\FizzBuzzWithMain.AssemblyInfo.cs
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\obj\Debug\net6.0\FizzBuzzWithMain.csproj.CoreCompileInputs.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\obj\Debug\net6.0\FizzBuzzWithMain.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\obj\Debug\net6.0\refint\FizzBuzzWithMain.dll
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\obj\Debug\net6.0\FizzBuzzWithMain.pdb
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\obj\Debug\net6.0\FizzBuzzWithMain.genruntimeconfig.cache
+C:\Users\nferrand\Desktop\CDA_Ex\CDA_Exercise\Algo\FizzBuzz\FizzBuzzWithMain\obj\Debug\net6.0\ref\FizzBuzzWithMain.dll
